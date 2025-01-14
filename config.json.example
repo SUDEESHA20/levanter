@@ -5,6 +5,7 @@
     "SUDO": "0",
     "STICKER_PACKNAME": "❤️,LyFE",
     "ALWAYS_ONLINE": "false",
+    "AUTO_REACTION_msg": "true",
     "RMBG_KEY": "null",
     "WARN_LIMIT": "3",
     "FORCE_LOGOUT": "false",
